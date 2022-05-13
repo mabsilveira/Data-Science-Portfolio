@@ -6,10 +6,10 @@ A collection of selected data science projects to demonstrate skills, knowledge,
 
 * __Datascience__: Simple analisys of a dataset of imobiliary renting rates in the netherlands using pandas and sklearn
 	netherlands
-* __Numpy__: Set of projects using numpy. Includes custom linear regreassion model (for comparisson with sklearn using the netherlands dataset)
+* __PythonNumPy__: Set of projects using numpy. Includes custom linear regreassion model (for comparisson with sklearn using the netherlands dataset)
 	Euler 149
 	Numpy version of netherlands
-* __PythonWebscrapping__: Simple webscraping example using Python's beatifulsoup. And an automatic compilation of important data in pdf document.
+* __PythonWebScrapping__: Simple webscraping example using Python's beatifulsoup. And an automatic compilation of important data in pdf document.
 	observador
 	
 ## In Progress

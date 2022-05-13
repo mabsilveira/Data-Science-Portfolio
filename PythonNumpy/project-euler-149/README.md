@@ -1,15 +1,13 @@
-# Project euler problem 149
+# Project Euler - Problem 149
 
 __Searching for a maximum-sum subsequence__
 
-Find the greatest sum of (any number of) adjacent entries in any direction of a 2000×2000 table
-filled with pseudo-random numbers obtained with the Lagged Fibonacci Generator
 
-This script uses the Numpy module to solve it
+A solver for Project Euler's 149th problem using Python's Numpy.
 
-Fritst the Lagged Fibonacci Generator is tested for the exemples provided
 
-Then the matrix is search row by row and column by column and finally the diagionals to find the maximum sum.
+The objective of this problem is to find the greatest sum of (any number of) adjacent entries in any direction of a 2000×2000 table filled with pseudo-random numbers obtained with the Lagged Fibonacci Generator.
+
 
 ## Additional Information 
 

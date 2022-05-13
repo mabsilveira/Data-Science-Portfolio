@@ -4,8 +4,13 @@ A collection of selected data science projects to demonstrate skills, knowledge,
 
 ## Contents
 
-* __Datascience__: Simple analisys of a dataset of imobiliary renting rates in the netherlands using pandas and sklearn
+* __DataScience__: Simple analisys of a dataset of imobiliary renting rates in the netherlands using pandas and sklearn
 	netherlands
+	
+	
+Predictive analisys of rent prices using the netherlands-rent-properties dataset.
+Tools used Pandas and sklearn
+
 * __PythonNumPy__: Set of projects using numpy. Includes custom linear regreassion model (for comparisson with sklearn using the netherlands dataset)
 	Euler 149
 	Numpy version of netherlands

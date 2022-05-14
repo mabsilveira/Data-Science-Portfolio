@@ -1,6 +1,6 @@
 # Netherlands Rent Properties NumPy
 
-__Predictive analisys of rent prices using numpy__
+__Predictive analysis  of rent prices using numpy__
 
 Here I analyse the same dataset as in this project: https://github.com/mabsilveira/Data-Science-Portfolio/tree/main/DataScience/netherlands-rent-properties
 

@@ -1,10 +1,10 @@
 # Netherlands Rent Properties
 
-__Predictive analisys of rent prices using pandas and scikit-learn__
+__Predictive analysis of rent prices using pandas and scikit-learn__
 
 This project consists on a simple study of the Netherlands Rent Properties dataset
 
-Data analysis and feture engineering are preformed using the pandas library
+Data analysis and feature engineering are performed using the pandas library
 
 A base linear regression model is applied utilizing tools from the scikit-learn library
 

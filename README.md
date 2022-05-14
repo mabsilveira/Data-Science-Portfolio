@@ -1,5 +1,5 @@
 # Data Science Portfolio
-A collection of selected data science projects to demonstrate skills, knowledge, and what I find interesting
+A collection of selected data science and python projects to demonstrate skills, knowledge, and what I find interesting
 
 
 ## Contents
